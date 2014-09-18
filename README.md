@@ -22,4 +22,4 @@ Push back to repo
 git push origin master
 ```
 
-Now open a pull request by going to https://github.com/rohitvarkey/IEGItSession.git and clicking pull request.
+Now open a pull request by going to https://github.com/rohitvarkey/IEGItSesgeorgesion.git and clicking pull request.
